@@ -1,2 +1,2 @@
-# computer-vision-collection
- Cmputer Vision Projects on different types of dataset
+# image-collection
+Different projects on images dataset
